@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gitika Bhatia (@gitika0612)
 - 👀 I’m interested in building products.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on some open source projects very soon.
 - 📫 How to reach me - bhatiagitia0612@gmail.com
 
